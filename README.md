@@ -1,7 +1,7 @@
 ### Aloha 👋
 
 ![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=statik&show_icons=true&theme=solarized-dark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statik&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindlyops&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=vbs)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=deleterious)](https://github.com/anuraghazra/github-readme-stats)
