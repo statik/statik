@@ -1,6 +1,13 @@
 ### Aloha 👋
 
 ![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=statik&show_icons=true&theme=solarized-dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statik&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=vbs)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=deleterious)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=showbase)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=pipeline-monitor)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=examples)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **statik/statik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
