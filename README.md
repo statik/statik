@@ -2,9 +2,6 @@
 <h1 align="center">Aloha 👋, I'm Elliot</h1>
 <h3 align="center">I think people are more important than computers.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=statik&label=Profile%20views&color=0e75b6&style=flat" alt="statik" /> </p>
-
-
 - 🔭 I’m currently working on [enlist](https://enlist.io/)
 
 - 🌱 I’m currently learning **how to buy and grow SaaS products**
@@ -33,7 +30,7 @@
 
 ### other stuff
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=statik&column=3&margin-w=15&margin-h=15&theme=nord" alt="statik" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=statik&column=3&margin-w=15&margin-h=15&theme=nord" alt="statik" /></a> </p>
 
 ![Elliot's github stats](https://github-readme-stats.vercel.app/api?username=statik&show_icons=true&theme=solarized-dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statik&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
