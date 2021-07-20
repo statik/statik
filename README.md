@@ -17,10 +17,10 @@
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=statik&title=AncientUser,PullRequest,Commit&column=3&&margin-w=15&margin-h=15&theme=nord" alt="statik" /></a> </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=vbs)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=showbase)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=pipeline-monitor)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=examples)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=vbs)](https://github.com/kindlyops/vbs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=showbase)](https://github.com/kindlyops/showbase)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=pipeline-monitor)](https://github.com/kindlyops/pipeline-monitor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindlyops&repo=examples)](https://github.com/kindlyops/examples)
 
 <!--
 **statik/statik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
