@@ -1,5 +1,5 @@
 
-<h1 align="center">Aloha 👋, I'm Elliot</h1>
+<h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">I think people are more important than computers.</h3>
 
 <!--
